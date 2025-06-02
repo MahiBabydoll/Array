@@ -13,7 +13,7 @@ public class Squareofnumbers {
 			
 		}
 		
-		System.out.println("uma");
+		System.out.println("Hi");
 	}
 
 }
